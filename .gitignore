@@ -1,10 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.env
+venv/
+.env/
+
 # Data & indexes
 data/
 faiss_index/
 
-# Secrets
-.env
-
-# Python cache
-__pycache__/
-*.pyc
+# Mac
+.DS_Store
