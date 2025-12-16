@@ -1,0 +1,10 @@
+# Data & indexes
+data/
+faiss_index/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
